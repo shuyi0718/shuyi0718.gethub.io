@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>零件信息</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2em;
+      font-size: 18px;
+      line-height: 1.8;
+      white-space: pre-line;
+    }
+  </style>
+</head>
+<body>
+零件号：IK01596180-PART3
+生产批次号：2025070301
+数量：3200
+</body>
+</html>
